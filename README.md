@@ -1,2 +1,2 @@
 # Mobile_Price_Range_Prediction
-For AlmaBetter Supervised Machine Learning
+AlmaBetter Supervised Machine Learning Project
